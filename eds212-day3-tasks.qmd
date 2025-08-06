@@ -1,0 +1,26 @@
+---
+title: "eds212-day3-tasks"
+author: "Richard Montes Lemus"
+format: html
+---
+```{r}
+vec_a <- c(1,6)
+vec_b <- c(2,4)
+```
+
+```{r}
+# add vectors 
+vec_a + vec_b
+```
+```{r}
+vec_b - vec_a
+```
+
+```{r}
+2 * vec_a
+```
+
+```{r}
+vec_a * vec_b
+```
+
